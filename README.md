@@ -2,7 +2,7 @@
 <h1 align="center">🌪️ Tailwind CSS v4 — Master Cheatsheet</h1>
 <p align="center">
   <strong>Complete reference + learning guide (Beginner → Advanced)</strong><br/>
-  Tailwind utilities mapped to CSS equivalents (default theme). Paste into your <code>README.md</code>.
+  Tailwind utilities mapped to CSS equivalents</code>.
 </p>
 
 <hr/>
