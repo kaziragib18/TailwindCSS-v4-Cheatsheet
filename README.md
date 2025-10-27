@@ -554,7 +554,7 @@
 
 <!-- Pro Tips -->
 <section>
-  <h2>🧠 Pro Tips (Apex Developer Advisor)</h2>
+  <h2>🧠 Pro Tips</h2>
   <ul>
     <li><strong>Think in Layout Primitives</strong>: Start with container & flow (display, gap, align), then refine spacing & typography.</li>
     <li><strong>Extract early</strong>: If you repeat a combination twice, make a component or utility with <code>@apply</code>.</li>
@@ -579,3 +579,5 @@
     <em>Paste this whole HTML into your README.md — it renders cleanly on GitHub.</em>
   </p>
 </section>
+
+
